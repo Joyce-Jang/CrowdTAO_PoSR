@@ -31,3 +31,4 @@ Werkzeug==0.14.1
 ItsDangerous==1.1.0
 tensorflow==1.11.0
 
+refer to https://github.com/sreyafrancis/BlockchainForFederatedLearning
